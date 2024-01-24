@@ -1,5 +1,5 @@
-<h1>Hi, I'm Eduardo!
-
+<h1>Hi, I'm Eduardo!</h1>
+Dual Degree of Master in Artificial Intelligence Candidate at IIT and Industrial Engineering at Universidad Politecnica de Madrid. A hardworking and passionate job seeker with strong organizational skills looking forward to securing an entry-level engineering position. Experience in data science, machine learning, and applied mathematics.
 <h2>👨‍💻 ML Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
