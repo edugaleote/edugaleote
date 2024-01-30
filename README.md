@@ -5,7 +5,6 @@ Dual Degree of Master in Artificial Intelligence Candidate at IIT and Industrial
 - <b>Real World Projects</b>
   - [Prediction of thrombotic events in COVID-19 patients with neural networks](https://github.com/edugaleote/Prediction-of-thrombotic-events-in-COVID-19-patients-with-neural-networks)
   - [Prediction of taxi demand in NYC in the next 60 minutes](https://github.com/edugaleote/Prediction-of-thrombotic-events-in-COVID-19-patients-with-neural-networks)
-  - [Prediction of Air Quality](https://github.com/edugaleote/Prediction-of-thrombotic-events-in-COVID-19-patients-with-neural-networks)
 - <b>SQL</b>
   - [F1 Database](https://github.com/edugaleote/F1-database-SQL)
 - <b>NLP</b>
