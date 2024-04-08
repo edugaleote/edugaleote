@@ -5,7 +5,6 @@ Research experience in data science, machine learning, and applied mathematics.
 
 - <b>Real World Projects</b>
   - [Prediction of thrombotic events in COVID-19 patients with neural networks](https://github.com/edugaleote/Prediction-of-thrombotic-events-in-COVID-19-patients-with-neural-networks)
-  - [S&P 500 trend prediction](https://github.com/edugaleote/SYP500-trend-prediction)
   - [Titanic Survival](https://github.com/edugaleote/titanic)
 - <b>SQL</b>
   - [F1 Database](https://github.com/edugaleote/F1-database-SQL)
